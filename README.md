@@ -1,1 +1,1 @@
-# enzyme_poisoning
+# Enzyme poisoning model for Michaelis Menten kinectics
